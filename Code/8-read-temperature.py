@@ -1,3 +1,4 @@
+#!python
 # CamJam EduKit 2 - Sensors
 # Worksheet 3 - Temperature
 
